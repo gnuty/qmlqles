@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/resources">
-        <file>src/fshader1.fsh</file>
-        <file>src/vshader1.vsh</file>
-        <file>textures/xclock.png</file>
-        <file>textures/earthmap1024x512.jpg</file>
-    </qresource>
-</RCC>
